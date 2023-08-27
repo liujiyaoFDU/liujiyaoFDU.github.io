@@ -28,15 +28,15 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI workshop 2023 oral</div><img src='images/miccai_workshop.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Multi-Phase Liver-Specific DCE-MRI Translation via a Registration-Guided GAN](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiyao Liu**, Yuxin Li, Nannan Shi, Yuncheng Zhou, Shangqi Gao, Yuxin Shi , Xiao-Yong Zhang, Xiahai Zhuang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://github.com/Jy-stdio/MrGAN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This paper introduces a new dataset and a novel application of image translation from multi-phase DCE-MRIs into a virtual GED- HBP image (v-HBP) that could be used as a substitute for GED-HBP in clinical liver diagnosis. 
 </div>
 </div>
 
