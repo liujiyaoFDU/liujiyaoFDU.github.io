@@ -58,4 +58,4 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 
 # Daily Life
 
-[](images/life-1.jpg)
+![](https://github.com/Jy-stdio/jy-stdio.github.io/blob/main/images/life-1.jpg)
