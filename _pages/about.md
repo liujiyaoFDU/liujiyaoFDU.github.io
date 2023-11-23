@@ -55,3 +55,7 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 
 # 💻 Internships
 - *2021.12 - 2022.06*, Sensetime（商汤科技，算法实习生）, Xi'an.
+
+# Daily Life
+
+[](images/life-1.jpg)
