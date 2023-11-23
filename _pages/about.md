@@ -35,10 +35,10 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 
 **Jiyao Liu**, Yuxin Li, Nannan Shi, Yuncheng Zhou, Shangqi Gao, Yuxin Shi , Xiao-Yong Zhang, Xiahai Zhuang
 
-<!-- [**Project**](https://github.com/Jy-stdio/MrGAN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Jy-stdio/MrGAN) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper introduces a new dataset and a novel application of image translation from multi-phase DCE-MRIs into a virtual GED- HBP image (v-HBP) that could be used as a substitute for GED-HBP in clinical liver diagnosis. 
 </div>
-</div> -->
+</div>
 
 
 # 🎖 Honors and Awards
