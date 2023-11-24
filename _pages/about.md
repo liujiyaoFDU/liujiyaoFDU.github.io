@@ -46,7 +46,7 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 - *2021.05* MCM/ICM, Mathematical Contest in Modeling, Outstanding Winner \| [\[blog\]](https://zhuanlan.zhihu.com/p/370250195) \| [\[github\]](https://github.com/Jy-stdio/2021-ICM-D-Outstanding). 
 - *2019/2020/2021* National Endeavor Scholarship (BSc), Xidian University.
 # 📖 Educations
-- *2022.09 - 2025.06 (now)*, P.h.d., Fudan University.
+- *2022.09 - 2027.06 (now)*, P.h.d., Fudan University, Shanghai.
 - *2018.09 - 2022.06*, B.S., Xi Dian University, Xi'an.
 
 # 💬 Invited Talks
@@ -57,7 +57,6 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 - *2021.12 - 2022.06*, Sensetime（商汤科技，算法实习生）, Xi'an.
 
 # Daily Life
-
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">2023.10 共青森林公园</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'><div><div class="badge">2023.10 共青森林公园</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
