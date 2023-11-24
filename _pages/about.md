@@ -58,4 +58,7 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 
 # Daily Life
 
-![](https://github.com/Jy-stdio/jy-stdio.github.io/blob/main/images/life-1.jpg)
+<div class='paper-box'>
+<div class='paper-box-image'><div><div class="badge">MICCAI workshop 2023 oral</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">MICCAI workshop 2023 oral</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
+</div>
