@@ -59,6 +59,6 @@ My research interest includes medical imaging, MRI reconstruction and inverse pr
 # Daily Life
 
 <div class='paper-box'>
-<div class='paper-box-image'><div><div class="badge">MICCAI workshop 2023 oral</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-image'><div><div class="badge">MICCAI workshop 2023 oral</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">2023.10 共青森林公园</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-image'><div><div class="badge">2023.10 共青森林公园</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
 </div>
