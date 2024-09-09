@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiyao Liu"
+title                    : "Jiyao Liu | 刘继垚"
 description              : "a first year Ph.D. student of BME, Fudan University."
 repository               : "https://github.com/Jy-stdio"
 google_scholar_stats_use_cdn : true
@@ -22,22 +22,22 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiyao Liu"
-  avatar           : "./images/avatar.jpg"
+  avatar           : "./images/avatar2.jpg"
   bio              : "Fudan University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=01i77FUAAAAJ"
-  email            : "408523081@qq.com"
+  email            : "jiyaoliu.fudan@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : 'https://jy-stdio.github.io/JiyaoPhdNotes/intro.html'
+  uri              : 'https://www.zhihu.com/people/zhi-shi-zhi-zhong-97-31'
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 'https://github.com/Jy-stdio/'
+  github           : 'https://github.com/liujiyaoFDU'
   google_plus      :
   keybase          :
   instagram        :
