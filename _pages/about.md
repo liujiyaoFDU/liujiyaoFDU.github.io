@@ -18,12 +18,18 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- ![](https://picx.zhimg.com/v2-19c81401b0b538ae313c8b8a1082c4f7_1440w.jpg?source=32738c0c) -->
-👨‍🎓 I'm Jiyao Liu (刘继垚), currently a third-year Ph.D. student majoring in Biomedical Engineering at 
-[Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)](https://istbi.fudan.edu.cn/), Fudan University. I am honored to be advised by Prof. Dr. [Xiahai Zhuang](https://zmiclab.github.io/zxh/) and [Dr. Ningsheng Xu](https://en.wikipedia.org/wiki/Xu_Ningsheng). Previously, I received the Bachelor's degree (June 2022) in Intelligence Science and Technology from Xidian University.
+👨‍🎓 I'm Jiyao Liu (刘继垚), currently a third-year Ph.D. student at 
+[Institute of Science and Technology for Brain-Inspired Intelligence (ISTBI)](https://istbi.fudan.edu.cn/), Fudan University. I am honored to be advised by Prof. [Ningsheng Xu](https://en.wikipedia.org/wiki/Xu_Ningsheng). Previously, I received the Bachelor's degree (June 2022) in Intelligence Science and Technology from Xidian University.
+
+
+
+
 
 🔭 Research interests
 
-My research interest includes **AI in Medical Imaging** and **Generative Model**, e.g., trustworthy multimodal medical image synthesis, generalizable MRI reconstruction / inverse problem in medical imaging. At present, I devote to enhancing the reliability and generalizability of medical image reconstruction.
+My research focuses on artificial intelligence, with particular emphasis on general medical AI, inverse problem in medical imaging, multi-modal large language models, as well as other new AI technologies. Feel free to reach out if you’d like to learn more about my work, chat, or explore potential collaborations.
+
+<!-- My research interest includes **AI in Medical Imaging** and **Generative Model**, e.g., trustworthy multimodal medical image synthesis, generalizable MRI reconstruction / inverse problem in medical imaging. At present, I devote to enhancing the reliability and generalizability of medical image reconstruction. -->
 
 
 
@@ -31,6 +37,8 @@ My research interest includes **AI in Medical Imaging** and **Generative Model**
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉  Two paper has been accepted by **MICCAI**.
+- *2024.11*: &nbsp;🎉🎉 I start my new journey at Shanghai AI Lab.
 - *2023.10*: &nbsp;🎉🎉  One paper has been oral reported on SASHIMI, MICCAI workshop, 2023.
 - *2021.12*: &nbsp;I started my research on Cross-modality face recognition with Dr. [Qigong Sun](https://scholar.google.com/citations?hl=en&user=u_cpfzQAAAAJ&view_op=list_works&sortby=pubdate) from SenseTime Group.
 - *2021.05*: &nbsp;🎉🎉  MCM/ICM, Mathematical Contest in Modeling, **Outstanding Winner🎉**（美国大学生数学建模竞赛特等奖，O奖）
@@ -53,16 +61,18 @@ A New Framework of Implicit Prior Adaptation for Boosting Test-Time MRI Reconstr
 </div>
 <!--  -->
 
+
+
 <!-- TrustI2I -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/trusti2i.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Trustworthy Contrast-enhanced Brain MRI Synthesis with Deep Evidential Regression](https://arxiv.org/abs/2407.07372)
+[Multi-modal MRI Translation via Evidential Regression and Distribution Calibration](https://arxiv.org/abs/2407.07372)
 
-**Jiyao Liu**, Yuxin Li, Shangqi Gao, Yuncheng Zhou, Ningsheng Xu, Xiao-Yong Zhang, and Xiahai Zhuang
+**Jiyao Liu**, Shangqi Gao, Yuxin Li, Lihao Liu, Xin Gao, Zhaohu Xing, Junzhi Ning, Yanzhou Su, Xiao-Yong Zhang, Junjun He, Ningsheng Xu, Xiahai Zhuang
 
  <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- In this work, we propose a new method that approaches multi-to-one medical image translation as a multimodal regression problem for brain CE-MRI synthesis. We developed an uncertainty-aware framework using deep evidential regression with uncertainty calibration and incorporated source modality fusion to improve performance, reliability, and interpretability.
+- Multi-modal Magnetic Resonance Imaging (MRI) translation leverages information from source MRI sequences to generate target modalities, enabling comprehensive diagnosis while overcoming the limitations of acquiring all sequences. While existing deep-learning-based multi-modal MRI translation methods have shown promising potential, they still face two key challenges: 1) lack of reliable uncertainty quantification for synthesized images, and 2) limited robustness when deployed across different medical centers. To address these challenges, we propose a novel framework that reformulates multi-modal MRI translation as a multi-modal evidential regression problem with distribution calibration. Our approach incorporates two key components: 1) an evidential regression module that estimates uncertainties from different source modalities and an explicit distribution mixture strategy for transparent multi-modal fusion, and 2) a distribution calibration mechanism that adapts to source-target mapping shifts to ensure consistent performance across different medical centers. Extensive experiments on three datasets from the BraTS2023 challenge demonstrate that our framework achieves superior performance and robustness across domains.
 </div>
 </div>
 <!--  -->
@@ -94,10 +104,21 @@ A New Framework of Implicit Prior Adaptation for Boosting Test-Time MRI Reconstr
 - *2021.03*, Oral report \| [International Society for Magnetic Resonance in Medicine (ISMRM)](https://www.ismrm.org/)
 
 # 💻 Internships
-- *2021.12 - 2022.06*, Sensetime（商汤科技，算法实习生）, Xi'an.
+- *2021.12 - 2022.06*, Sensetime, Research Intern
+- *2024.11 - now*, Shanghai AI Lab, Research Intern
+
+# 💡 Collaborators
+
+- Dr. [Xiahai Zhuang](https://zmiclab.github.io/zxh/)
+- Dr. [Shangqi Gao](https://scholar.google.com/citations?user=D-jg5rUAAAAJ&hl=zh-CN)
+- Dr. [Xiao-Yong Zhang](https://scholar.google.com.hk/citations?user=PrOzAs0AAAAJ&hl=zh-CN&oi=ao)
+
+
+Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/) and Dr. [Shangqi Gao](https://scholar.google.com/citations?user=D-jg5rUAAAAJ&hl=zh-CN)
 
 # Daily Life
 <div class='paper-box'>
 <div class='paper-box-image'><div><div class="badge">2023.10 共青森林公园</div><img src='images/life-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-image'><div><div class="badge">2024.08 香港大学 </div><img src='images/life-3.jpg' alt="sym" width="100%"></div></div>
 </div>
+
