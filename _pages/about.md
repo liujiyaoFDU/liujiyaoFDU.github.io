@@ -37,7 +37,7 @@ My research focuses on artificial intelligence, with particular emphasis on gene
 
 
 # 🔥 News
-- *2025.05*: &nbsp;🎉🎉  Two paper has been accepted by **MICCAI**.
+- *2025.05*: &nbsp;🎉🎉  Two paper has been early accepted by **MICCAI**.
 - *2024.11*: &nbsp;🎉🎉 I start my new journey at Shanghai AI Lab.
 - *2023.10*: &nbsp;🎉🎉  One paper has been oral reported on SASHIMI, MICCAI workshop, 2023.
 - *2021.12*: &nbsp;I started my research on Cross-modality face recognition with Dr. [Qigong Sun](https://scholar.google.com/citations?hl=en&user=u_cpfzQAAAAJ&view_op=list_works&sortby=pubdate) from SenseTime Group.
@@ -64,7 +64,7 @@ A New Framework of Implicit Prior Adaptation for Boosting Test-Time MRI Reconstr
 
 
 <!-- TrustI2I -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/trusti2i.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2025</div><img src='images/trusti2i.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-modal MRI Translation via Evidential Regression and Distribution Calibration](https://arxiv.org/abs/2407.07372)
