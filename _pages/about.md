@@ -116,13 +116,13 @@ I sincerely thank Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/), Dr. [Sh
   <div class='paper-box-image'>
     <div>
       <div class="badge">Research Intern</div>
-      <img src='images/sensetime.jpg' alt="sym" width="100%">
+      <img src='images/sensetime.jpg' alt="sym" width="70%">
     </div>
   </div>
   <div class='paper-box-image'>
     <div>
       <div class="badge">Shanghai AI Lab, General Medical Group</div>
-      <img src='images/ailab.png' alt="sym" width="100%">
+      <img src='images/ailab.png' alt="sym" width="120%">
     </div>
   </div>
 </div>
