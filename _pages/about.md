@@ -122,7 +122,7 @@ I sincerely thank Prof. [Xiahai Zhuang](https://zmiclab.github.io/zxh/), Dr. [Sh
   <div class='paper-box-image'>
     <div>
       <div class="badge">Shanghai AI Lab, General Medical Group</div>
-      <img src='images/ailab.jpg' alt="sym" width="100%">
+      <img src='images/ailab.png' alt="sym" width="100%">
     </div>
   </div>
 </div>
