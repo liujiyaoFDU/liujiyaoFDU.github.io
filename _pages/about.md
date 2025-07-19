@@ -61,7 +61,7 @@ Jinjie Wei, **Jiyao Liu** (co-first), Lihao Liu, Ming Hu, Junzhi Ning, Mingcheng
 <!--  -->
 
 <!-- GUI -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Tech Repor, 2025.</div><img src='images/2025_neurips_cognigui.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Tech Repor, 2025.</div><img src='images/gmaivlr1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GMAI-VL-R1: Harnessing Reinforcement Learning for Multimodal Medical Reasoning**
