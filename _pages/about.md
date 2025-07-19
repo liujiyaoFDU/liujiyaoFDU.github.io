@@ -43,6 +43,8 @@ I am a third-year Ph.D. student at the Institute of Science and Technology for B
 **Jiyao Liu**, Shangqi Gao, Yuxin Li, Lihao Liu, Xin Gao, Zhaohu Xing, Junzhi Ning, Yanzhou Su, Xiao-Yong Zhang, Junjun He, Ningsheng Xu, Xiahai Zhuang
 
 [[paper](https://arxiv.org/abs/2407.07372)]
+</div>
+</div>
 <!--  -->
 
 <!-- GUI -->
@@ -54,6 +56,8 @@ I am a third-year Ph.D. student at the Institute of Science and Technology for B
 Jinjie Wei, **Jiyao Liu** (co-first), Lihao Liu, Ming Hu, Junzhi Ning, Mingcheng Li, Weijie Yin, Junjun He, Xiao Liang, Chao Feng, Dingkang Yang
 
 [[paper](https://arxiv.org/abs/2506.17913)]
+</div>
+</div>
 <!--  -->
 
 <!-- GUI -->
@@ -65,6 +69,8 @@ Jinjie Wei, **Jiyao Liu** (co-first), Lihao Liu, Ming Hu, Junzhi Ning, Mingcheng
 Yanzhou Su, Tianbin Li, **Jiyao Liu**, Chenglong Ma, Junzhi Ning, Cheng Tang, Sibo Ju, Jin Ye, Pengcheng Chen, Ming Hu, Shixiang Tang, Lihao Liu, Bin Fu, Wenqi Shao, Xiaowei Hu, Xiangwen Liao, Yuanfeng Ji, Junjun He
 
 [[paper](https://arxiv.org/abs/2504.01886)|[code](https://github.com/uni-medical/GMAI-VL-R1)]
+</div>
+</div>
 <!--  -->
 
 
