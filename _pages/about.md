@@ -81,6 +81,8 @@ Yanzhou Su, Tianbin Li, **Jiyao Liu**, Chenglong Ma, Junzhi Ning, Cheng Tang, Si
 **Bias-Calibrated Adaptation of Score-based Models for MRI Reconstruction**
 
 **Jiyao Liu**, Shangqi Gao, Lihao Liu, Yuxin Li, Jinjie Wei, Yachen Gao, Chengyan Wang, Junjun He, Ningsheng Xu, and Xiahai Zhuang
+</div>
+</div>
 <!--  -->
 
 
