@@ -429,13 +429,22 @@ function togglePublications() {
 </div>
 <p>
 	<div id="clustrmaps-widget" style="width:40%">
-		<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=pT8r_ZMBBdBPTv7KnlTCiBDylmHyi1qsWdPpY_tIlqY'></script>
-		<noscript><a href='https://clustrmaps.com/site/xfn5'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=pT8r_ZMBBdBPTv7KnlTCiBDylmHyi1qsWdPpY_tIlqY'/></a>
-		</noscript>
+		<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sXAjL6LP8RuZ9mydihZA-y0jFShr9JTP4v51eKyP7do&cl=ffffff&w=a"></script>
+		<noscript><a href="https://clustrmaps.com/site/1c84h" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=sXAjL6LP8RuZ9mydihZA-y0jFShr9JTP4v51eKyP7do&cl=ffffff"></a></noscript>
 	</div>
 	<br>
-	&copy; Jiyao Liu | Last updated: 01/13/2025</center>
+	&copy; Jiyao Liu | Last updated: <span id="last-updated"></span>
 </p>
+
+<script>
+// Auto-update last modified date
+function updateLastModified() {
+    const options = { month: '2-digit', day: '2-digit', year: 'numeric' };
+    const lastModified = new Date(document.lastModified);
+    document.getElementById('last-updated').textContent = lastModified.toLocaleDateString('en-US', options);
+}
+updateLastModified();
+</script>
 </div>
 
 
