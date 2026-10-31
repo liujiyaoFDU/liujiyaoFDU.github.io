@@ -1,5 +1,35 @@
 /* Default css file for jemdoc. */
 
+.moments-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 20px;
+    max-width: 660px;
+    margin: 18px 0 24px;
+}
+
+.moments-grid figure {
+    margin: 0;
+}
+
+.moments-grid img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+
+.moments-grid a:hover {
+    border-bottom: none;
+}
+
+.moments-grid figcaption {
+    margin-top: 8px;
+    color: #555;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
 table#tlayout {
     border: none;
     border-collapse: separate;
